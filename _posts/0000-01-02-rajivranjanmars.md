@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "hey git , plz ready in lil bit!"
 
 ---
 THIS IS OUR 1st slide 
